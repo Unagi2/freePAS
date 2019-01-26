@@ -1,0 +1,1 @@
+/home/pi/Desktop/image_pro/image/output.jpg 加工後の画像ファイルのパス
