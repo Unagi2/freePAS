@@ -17,9 +17,9 @@ def download_img(url, file_name):
 
 def input():
     while True:
-        api=login.login("KYH11652031")
+        api=login.login("TwitterID入力")
         #api = key_tweepy_proc()
-        for tweet in api.search(q='"#free_PAS filter:images"',result_type='mixed', count=1):#qはキーワード excludeはリツイート避け exclude:retweets
+        for tweet in api.search(q='"#ハッシュタグ名 filter:images"',result_type='mixed', count=1):#qはキーワード excludeはリツイート避け exclude:retweets
             i = 1;
             class END(Exception):
                 pass
