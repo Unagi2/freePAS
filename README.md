@@ -12,3 +12,26 @@ TwitterAPIのハッシュタグ検索を利用して、特定の（例：#photo_
 画像加工したものは、投稿者のTwitterIDに@リプライ返信される。
 
 投稿者は、画像加工したものを各SNSに投稿することで、いつもとは違う写真の雰囲気を共有して楽しむことができます。
+
+## Folder Structure
+core_sys.py  
+URL_pool.txt  
+IO_module  
+
+	img_Download.py  
+	img_Upload.py    
+	key_tweepy.py
+	login.py
+	screen_name.txt
+	command.txt
+	locate.txt
+
+filter_module
+
+	anime_filter.py
+	dot_filter.py
+
+image
+
+	input.jpg
+	output.jpg
