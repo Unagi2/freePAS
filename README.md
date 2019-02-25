@@ -1,10 +1,10 @@
 # freePAS
-free PAS (Free Photo Application Service の略)
+free PAS (**Free** **P**hoto **A**pplication **S**ervice の略)
 
 Raspberry pi 3 B+を用いて、Twitterのツイートに含まれる、特定のハッシュタグに反応して
 添付されている画像を自動的に加工するアプリ
 
-複雑になってきた、画像加工をdotやanimeといった、短いキーワードを打つだけで簡単に画像加工ができるようになる。
+複雑になってきた、画像加工をdotやanimeといった、短いキーワードを打つだけで簡単に画像加工ができるようになる。  
 使用するユーザーは、ツイート本文に「dot」などを打ち込むだけで良い。
 
 今回は、24h体制で運用することも視野に、Raspberry pi3 B+を使用した。
