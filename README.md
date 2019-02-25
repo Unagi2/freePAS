@@ -17,8 +17,8 @@ TwitterAPIのハッシュタグ検索を利用して、特定の（例：#photo_
 ## Folder Structure(各ファイルの要素)
 
 **freePAS Folder(home directory)**
-* core_sys.py （このプログラムを中枢として各ファイルを実行している)
-* URL_pool.txt (ツイート取得の際、重複を防止するlogファイル) 
+ * core_sys.py （このプログラムを中枢として各ファイルを実行している)
+ * URL_pool.txt (ツイート取得の際、重複を防止するlogファイル) 
 
 * IO_module folder(画像のダウンロード、アップロードに関するファイル)</dt>
   *	img_Download.py    
