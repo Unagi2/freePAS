@@ -20,7 +20,7 @@ TwitterAPIのハッシュタグ検索を利用して、特定の（例：#photo_
  * core_sys.py （このプログラムを中枢として各ファイルを実行している)
  * URL_pool.txt (ツイート取得の際、重複を防止するlogファイル) 
 
-* IO_module folder(画像のダウンロード、アップロードに関するファイル)</dt>
+**IO_module folder(画像のダウンロード、アップロードに関するファイル)**
   *	img_Download.py    
   *	img_Upload.py  
   *	key_tweepy.py
@@ -29,10 +29,10 @@ TwitterAPIのハッシュタグ検索を利用して、特定の（例：#photo_
   *	command.txt
   *	locate.txt
 
-* filter_module folder(画像加工するためのフィルター)
+**filter_module folder(画像加工するためのフィルター)**
   *	anime_filter.py
   *	dot_filter.py
-
-* image folder(取得/画像加工した画像ファイル)
+  
+**image folder(取得/画像加工した画像ファイル)**
   *	input.jpg
   *	output.jpg
