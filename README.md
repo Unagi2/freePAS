@@ -27,10 +27,10 @@ TwitterAPIのハッシュタグ検索を利用して、特定の（例：#photo_
   >> *	screen_name.txt
   >> *	command.txt
   >> *	locate.txt  
-  >>　**filter_module folder**
+>>　**filter_module folder**
   >> * anime_filter.py
   >> *	dot_filter.py  
-  >>　**image folder**
+>>　**image folder**
   >> *	input.jpg
   >> *	output.jpg
 
